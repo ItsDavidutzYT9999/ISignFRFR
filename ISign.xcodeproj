@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <object version="1.0">
+        <object type="PBXProject" id="1D1D1D1D1D1D1D1D1D1D1D1D">
+            <name>ISign</name>
+            <compatibilityVersion>Xcode 14.0</compatibilityVersion>
+            <minimumBaseSDK>macosx12.0</minimumBaseSDK>
+            <mainGroup>
+                <id>1D1D1D1D1D1D1D1D1D1D1D</id>
+                <children>
+                    <id>1D1D1D1D1D1D1D1D1D1D1D</id>
+                    <id>1D1D1D1D1D1D1D1D1D1D1D</id>
+                    <id>1D1D1D1D1D1D1D1D1D1D1D</id>
+                    <id>1D1D1D1D1D1D1D1D1D1D1D</id>
+                    <id>1D1D1D1D1D1D1D1D1D1D1D</id>
+                    <id>1D1D1D1D1D1D1D1D1D1D1D</id>
+                </children>
+            </mainGroup>
+            <targets>
+                <id>1D1D1D1D1D1D1D1D1D1D1D</id>
+            </targets>
+        </object>
+        <object type="PBXGroup" id="1D1D1D1D1D1D1D1D1D1D1D">
+            <name>ISign</name>
+            <children>
+                <id>1D1D1D1D1D1D1D1D1D1D1D</id>
+                <id>1D1D1D1D1D1D1D1D1D1D1D</id>
+                <id>1D1D1D1D1D1D1D1D1D1D1D</id>
+                <id>1D1D1D1D1D1D1D1D1D1D1D</id>
+                <id>1D1D1D1D1D1D1D1D1D1D1D</id>
+            </children>
+        </object>
+        <object type="PBXNativeTarget" id="1D1D1D1D1D1D1D1D1D1D1D">
+            <name>ISign</name>
+            <productName>ISign</productName>
+            <productType>com.apple.product-type.application</productType>
+            <buildConfigurationList>1D1D1D1D1D1D1D1D1D1D1D</buildConfigurationList>
+            <dependencies>
+            </dependencies>
+            <buildPhases>
+                <id>1D1D1D1D1D1D1D1D1D1D1D</id>
+            </buildPhases>
+        </object>
+    </object>
+</project>

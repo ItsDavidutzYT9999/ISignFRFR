@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14020" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none">
+    <objects>
+        <scene sceneID="1">
+            <objects>
+                <viewController id="2" customClass="ViewController" customModule="ISign" customModuleProvider="target">
+                    <view key="view" contentMode="scaleToFill" id="3">
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" id="4">
+                                <rect key="frame" x="20" y="20" width="300" height="50"/>
+                                <state key="normal" title="Sign & Install IPA" />
+                                <color key="backgroundColor" red="0.0" green="0.47843137254901963" blue="1.0" alpha="1" />
+                            </button>
+                        </subviews>
+                        <constraints>
+                            <constraint firstItem="4" firstAttribute="centerX" secondItem="3" secondAttribute="centerX" id="5"/>
+                            <constraint firstItem="4" firstAttribute="top" secondItem="3" secondAttribute="top" constant="100" id="6"/>
+                        </constraints>
+                    </view>
+                </viewController>
+            </objects>
+        </scene>
+    </objects>
+</document>
